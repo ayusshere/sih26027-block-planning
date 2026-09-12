@@ -1,7 +1,7 @@
 # 🚦 AI-Powered Automatic Block Planning — Indian Railways
 
 > Smart India Hackathon 2026 | Problem ID: **SIH26027**
-> Team **LastCommit** (ID: SIH260270214) — Ayush & Tanishk (MCA)
+> Team **LastCommit** (ID: SIH260270214)
 
 An intelligent dispatcher cockpit that helps Indian Railways schedule track maintenance **without colliding with trains** 🚆 — think of it as *"Google Calendar with Physics"* for railway blocks!
 
@@ -120,8 +120,7 @@ npm run dev
 
 ## 👥 Team LastCommit
 
-- **Ayush** — MCA, Backend (Java/Spring Boot)
-- **Tanishk** — MCA, Backend
+- need to implement everybody's names
 
 ---
 
